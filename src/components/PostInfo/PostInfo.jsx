@@ -1,3 +1,5 @@
+import './PostInfo.scss';
+
 import { UserInfo } from '../UserInfo';
 import { CommentList } from '../CommentList';
 import usersFromServer from '../../api/users.json';
